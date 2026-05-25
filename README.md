@@ -43,12 +43,8 @@ const capy = {
 ## 🐍 contribution snake
  
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capyb2222/capyb2222/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capyb2222/capyb2222/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/capyb2222/capyb2222/output/github-contribution-grid-snake.svg">
-</picture>
-*Note: Snake animation appears after running the GitHub Action (see setup below)*
+<img src="https://raw.githubusercontent.com/capyb2222/capyb2222/output/snake.svg" alt="Snake animation" />
+*Note: Snake animation appears after running the GitHub Action*
  
 </div>
 ---
@@ -60,3 +56,4 @@ const capy = {
  
 <img src="https://komarev.com/ghpvc/?username=capyb2222&color=00f7f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+ 
