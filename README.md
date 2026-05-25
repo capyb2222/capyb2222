@@ -43,7 +43,6 @@ const capy = {
  
 <div align="center">
 <img src="https://raw.githubusercontent.com/capyb2222/capyb2222/output/snake.svg" alt="Snake animation" />
-*Note: Snake animation appears after running the GitHub Action*
  
 </div>
 ---
