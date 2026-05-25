@@ -36,7 +36,7 @@ const capy = {
 ## 📊 github activity
  
 <div align="center">
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=capyb2222&theme=tokyo-night&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=false)
+[GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=capyb2222&theme=tokyo-night&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=false)
  
 </div>
 ## 💻 this week's coding time
