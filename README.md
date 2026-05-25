@@ -33,12 +33,18 @@ const capy = {
 
 </div>
 
-## 📊 github stats
+## 📊 github activity
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=capyb2222&show_icons=true&theme=tokyonight&border_color=00f7f7&title_color=00f7f7&icon_color=00f7f7&text_color=00f7f7&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capyb2222&layout=compact&theme=tokyonight&border_color=00f7f7&title_color=00f7f7&text_color=00f7f7&bg_color=0d1117&hide_border=false" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=capyb2222&theme=tokyonight&border=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=capyb2222&theme=tokyo-night&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=false)
+ 
+</div>
+## 💻 this week's coding time
+ 
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
 </div>
 ## 🐍 contribution snake
  
