@@ -14,10 +14,7 @@
 
 ```typescript
 const capy = {
-    vibe: "immaculate",
-    focus: "anime games",
-    status: "coding something cool rn",
-    motto: "if it's not fun, why bother?"
+    I am a vibe coder, it means that I code using powerful AI for my projects, EVERYTHING in my github is created by AI. Currently training AI to do more crazy stuff related to reverse engineering
 };
 ```
 
