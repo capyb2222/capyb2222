@@ -34,31 +34,29 @@ const capy = {
 </div>
 
 ## 📊 github stats
-
+ 
 <div align="center">
-
-![capy's GitHub stats](https://github-readme-stats.vercel.app/api?username=capy&show_icons=true&theme=tokyonight&border_color=00f7f7&title_color=00f7f7&icon_color=00f7f7&text_color=00f7f7&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capy&layout=compact&theme=tokyonight&border_color=00f7f7&title_color=00f7f7&text_color=00f7f7&bg_color=0d1117)
-
+<img src="https://github-readme-stats.vercel.app/api?username=capyb2222&show_icons=true&theme=tokyonight&border_color=00f7f7&title_color=00f7f7&icon_color=00f7f7&text_color=00f7f7&bg_color=0d1117&hide_border=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capyb2222&layout=compact&theme=tokyonight&border_color=00f7f7&title_color=00f7f7&text_color=00f7f7&bg_color=0d1117&hide_border=false" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=capyb2222&theme=tokyonight&border=00f7f7&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" />
 </div>
-
 ## 🐍 contribution snake
-
+ 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/capy/capy/output/github-contribution-grid-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capyb2222/capyb2222/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capyb2222/capyb2222/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/capyb2222/capyb2222/output/github-contribution-grid-snake.svg">
+</picture>
+*Note: Snake animation appears after running the GitHub Action (see setup below)*
+ 
 </div>
-
 ---
-
+ 
 <div align="center">
-
 ### 💙 currently vibing on anime game projects 💙
-
+ 
 *"code with passion, ship with style"*
-
-![Visitor Count](https://profile-counter.glitch.me/capy/count.svg)
-
+ 
+<img src="https://komarev.com/ghpvc/?username=capyb2222&color=00f7f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
