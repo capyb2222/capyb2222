@@ -2,7 +2,7 @@
 
 # Yoooo, i'm capy
 
-###  I am pro vibe coder and anime game enthusiast 
+###  I am a pro vibe coder and anime game enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=making+cool+stuff+for+anime+games;vibing+and+coding;always+learning+new+things" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ```typescript
 const capy = {
-    I am a vibe coder, it means that I code using powerful AI for my projects, EVERYTHING in my github is created by AI. Currently training AI to do more crazy stuff related to reverse engineering
+    I am a vibe coder, it means that I code using powerful AI for my projects, EVERYTHING in my github is created by AI (mostly). Currently training AI to do more crazy stuff related to reverse engineering
 };
 ```
 
