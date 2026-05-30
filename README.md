@@ -39,16 +39,15 @@ const capy = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=capyb2222&theme=tokyo-night&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=false" alt="Activity Graph" />
 </div>
 
-## 🐍 contribution snake
+## 🐍
  
 <div align="center">
 <img src="https://raw.githubusercontent.com/capyb2222/capyb2222/output/snake.svg" alt="Snake animation" />
  
 </div>
----
  
 <div align="center">
-### 💙 currently vibing on anime game projects 💙
+💙 currently vibing on anime game projects 💙
  
 *"code with passion, ship with style"*
  
