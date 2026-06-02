@@ -54,3 +54,10 @@ const capy = {
 <img src="https://komarev.com/ghpvc/?username=capyb2222&color=00f7f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
  
+## ⭐ favorite repository
+
+<div align="center">
+
+[![LunaGC](https://github-readme-stats.vercel.app/api/pin/?username=capyb2222&repo=LunaGC&theme=tokyonight&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff&border_color=00f7f7&hide_border=false)](https://github.com/capyb2222/LunaGC)
+
+</div>
