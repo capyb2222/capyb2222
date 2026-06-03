@@ -60,7 +60,7 @@ const capy = {
 
 ### [LunaGC](https://github.com/capyb2222/LunaGC)
 
-A game server re-implementation for an anime game — reverse engineering, packet handling, and low-level craft.
+A game server re-implementation for an anime game.
 
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/github/stars/capyb2222/LunaGC?style=flat-square&color=00f7f7&label=Stars" alt="Stars" />
