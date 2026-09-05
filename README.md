@@ -1,8 +1,8 @@
 <div align="center">
 
-# Yoooo, i'm capy
+# Hi! I'm capy
 
-###  I am a pro vibe coder and anime game enthusiast 
+###  I am a vibe coder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=making+cool+stuff+for+anime+games;vibing+and+coding;always+learning+new+things" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ```typescript
 const capy = {
-    I am a vibe coder, it means that I code using powerful AI for my projects, EVERYTHING in my github is created by AI (mostly). Currently training AI to do more crazy stuff related to reverse engineering
+    I am a vibe coder, it means that I code using AI for my projects, Mostly everything in my github is created with the help of AI.
 };
 ```
 
@@ -47,7 +47,7 @@ const capy = {
 </div>
  
 <div align="center">
-💙 currently vibing on anime game projects 💙
+💙 currently vibing 💙
  
 *"code with passion, ship with style"*
  
@@ -60,7 +60,7 @@ const capy = {
 
 ### [LunaGC](https://github.com/capyb2222/LunaGC)
 
-A game server re-implementation for an anime game.
+A fork of a game server re-implementation for a certain anime game.
 
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/github/stars/capyb2222/LunaGC?style=flat-square&color=00f7f7&label=Stars" alt="Stars" />
