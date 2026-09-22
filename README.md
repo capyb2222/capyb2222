@@ -35,7 +35,11 @@ const capy = {
 
 ## 📊 GitHub Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=capyb2222&theme=tokyo-night&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=false)](https://github.com/capyb2222)
+<p align="center">
+  <a href="https://github.com/capyb2222">
+    <img src="https://streak-stats.demolab.com?user=capyb2222&theme=dark&background=1a102f&ring=9333ea&fire=a855f7&currStreakNum=c084fc&hide_border=true" alt="Streak Stats" />
+  </a>
+</p>
 
 ## 🐍
  
