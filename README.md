@@ -33,11 +33,9 @@ const capy = {
 
 </div>
 
-## 📊 github activity
- 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=capyb2222&theme=tokyo-night&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=false" alt="Activity Graph" />
-</div>
+## 📊 GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=capyb2222&theme=tokyo-night&bg_color=0d1117&color=00f7f7&line=00f7f7&point=00f7f7&area=true&hide_border=false)](https://github.com/capyb2222)
 
 ## 🐍
  
